@@ -1,4 +1,4 @@
-### Hi, I'm Turgay (timtim)
+### Hi, I'm Timtim
 
 I build macOS and iOS apps, and I send small, tested fixes to other people's open source.
 
